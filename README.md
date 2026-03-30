@@ -32,6 +32,6 @@ python nome_do_arquivo.py
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por Tiago Nogueira
 Curso: Sistemas para Internet — IFSP Araraquara
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tiago-nogueira-880b833b8/)
